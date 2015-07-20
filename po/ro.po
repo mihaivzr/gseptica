@@ -1,0 +1,118 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Mihai Varzaru <mihaiv@gmail.com>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gseptica 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-10 17:36+0200\n"
+"PO-Revision-Date: 2009-12-07 17:51+0200\n"
+"Last-Translator: Mihai Varzaru <mihaiv@gmail.com>\n"
+"Language-Team: Romanian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/mihai/Work/gseptica/po/../src/mainwindow.cpp:178
+#, c-format
+msgid "Won: %d   Lost: %d   Drawn: %d"
+msgstr "Câștigate: %d   Pierdute: %d   Remize: %d"
+
+#: /home/mihai/Work/gseptica/po/../src/game.cpp:152
+msgid "Done"
+msgstr "Gata"
+
+#: /home/mihai/Work/gseptica/po/../src/game.cpp:290
+#: /home/mihai/Work/gseptica/po/../src/game.cpp:291
+#, c-format
+msgid ""
+"Cards: %d\n"
+"Points: %d"
+msgstr ""
+"Cărți: %d\n"
+"Puncte: %d"
+
+#: /home/mihai/Work/gseptica/po/../src/game.cpp:554
+msgid "You won!"
+msgstr "Ai câștigat!"
+
+#: /home/mihai/Work/gseptica/po/../src/game.cpp:555
+msgid "You lost!"
+msgstr "Ai pierdut!"
+
+#: /home/mihai/Work/gseptica/po/../src/game.cpp:555
+msgid "Draw!"
+msgstr "Remiză!"
+
+#: /home/mihai/Work/gseptica/po/../src/game.cpp:558
+#, c-format
+msgid "Game ended. %s"
+msgstr "Jocul s-a sfârșit. %s"
+
+#: ../data/gseptica.desktop.in.h:1 ../src/gseptica.glade.h:7
+msgid "GSeptica"
+msgstr "GSeptica"
+
+#: ../data/gseptica.desktop.in.h:2
+msgid "Play septica card game"
+msgstr "Joacă șeptică"
+
+#: ../src/gseptica.glade.h:1
+msgid "&#xA9; 2009 Mihai Varzaru"
+msgstr "&#xA9; 2009 Mihai Vărzaru"
+
+#: ../src/gseptica.glade.h:2
+msgid ""
+"A popular cards game, known in \n"
+"Romania as septica."
+msgstr ""
+"Un joc popular de cărți, cunoscut în\n"
+"România ca șeptică."
+
+#: ../src/gseptica.glade.h:4
+msgid "About GSeptica"
+msgstr "Despre GSeptica"
+
+#: ../src/gseptica.glade.h:5
+msgid "Difficulty"
+msgstr "Dificultate"
+
+#: ../src/gseptica.glade.h:6
+msgid "Easy"
+msgstr "Ușor"
+
+#: ../src/gseptica.glade.h:8
+msgid "Hard"
+msgstr "Dificil"
+
+#: ../src/gseptica.glade.h:9
+msgid "Medium"
+msgstr "Mediu"
+
+#: ../src/gseptica.glade.h:10
+msgid "New Game"
+msgstr "Joc nou"
+
+#: ../src/gseptica.glade.h:11
+msgid ""
+"This free software is licensed using GNU GPL version 2 or later.\n"
+"This licence allows you to run the unmodified program without restrictions.\n"
+"Please read its complete terms from the distributed COPYING file or on GNU "
+"website:\n"
+"http://www.gnu.org/licenses/gpl-2.0.html\n"
+msgstr ""
+"Licenţa acestui program este GNU GPL versiunea 2 sau mai nouă.\n"
+"Această licenţă vă permite să rulaţi fară restricţii programul nemodificat.\n"
+"Vă rog să citiţi termenii compleţi ai licenţei din fișierul distribuit "
+"COPYING sau pe siteul GNU:\n"
+"http://www.gnu.org/licenses/gpl-2.0.html\n"
+
+#: ../src/gseptica.glade.h:16
+msgid "_Game"
+msgstr "_Joc"
+
+#: ../src/gseptica.glade.h:17
+msgid "_Help"
+msgstr "_Ajutor"

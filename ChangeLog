@@ -1,0 +1,20 @@
+2009-12-16  Mihai Varzaru <mihaiv@gmail.com>
+     [ GSeptica 0.1.2 released ]
+     
+     * src/game.cpp: fixed a bug that led to an invalid number of packet 
+                     cards on new games after a partial game
+
+
+2009-12-15  Mihai Varzaru <mihaiv@gmail.com>
+     [ GSeptica 0.1.1 released ]
+     
+     * src/game.cpp: improved timings (0.7 s card see time on deck)
+     * src/game.cpp: faster drawing on drag and animations by using a pixmap
+     * src/mainwindow.cpp: saving window size
+
+
+2009-12-10  Mihai Varzaru <mihaiv@gmail.com>
+    
+     [ GSeptica 0.1 released ]
+     
+     * This is the first GSeptica version.

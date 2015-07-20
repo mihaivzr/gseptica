@@ -1,0 +1,16 @@
+GSeptica 0.1.2  -  2009-12-16
+--------------
+    - fixed a bug that led to an invalid number of packet cards on new 
+      games after a partial game
+
+
+GSeptica 0.1.1  -  2009-12-15
+--------------
+    - improved timings
+    - improved drawing on drag
+    - saving the window size
+
+
+GSeptica 0.1  -  2009-12-10
+--------------
+    This is the first GSeptica version.

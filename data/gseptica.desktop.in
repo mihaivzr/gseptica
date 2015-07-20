@@ -1,0 +1,10 @@
+[Desktop Entry]
+_Name=GSeptica
+_Comment=Play septica card game
+TryExec=gseptica
+Exec=gseptica
+Icon=gseptica.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Game;CardGame;
